@@ -15,7 +15,7 @@ if the coach will have enough capacity to service your needs. These
 numbers can also explain why one model costs more than another even
 though they appear similar.
 
-**GAWR**: Gross Axel Weight Rating is the maximum permissible weight for
+**GAWR**: Gross Axle Weight Rating is the maximum permissible weight for
 the axle.
 
 **GVWR**: Gross Vehicle Weight Rating is the maximum permissible weight
