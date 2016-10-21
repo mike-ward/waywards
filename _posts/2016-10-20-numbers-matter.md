@@ -75,9 +75,10 @@ Tongue weight: 100 lbs
 or about 4100 lbs.
 
 We add the 100 lbs of the tongue weight to the cargo load giving us a
-total cargo load of $3,300 lbs. We're within the limits of this coach.
+total cargo load of 2,800 lbs. We're still within the limits of this
+coach.
 
-There's another number we need to worry about. It's **GCWR**. Recall
+But there's another number we need to worry about. It's **GCWR**. Recall
 this is combined weight of the motor coach and towed vehicle.
 
 So let's run the numbers.
@@ -85,7 +86,8 @@ So let's run the numbers.
 UVW = 25,700 lbs  
 Additional options = 1,300 lbs  
 Cargo, people, etc = 2,700 lbs  
-Tongue weight = 100 lbs Towed weight = 4,000 lbs
+Tongue weight = 100 lbs  
+Towed weight = 4,000 lbs
 
 The total combined weight is 33,800 lbs.
 
