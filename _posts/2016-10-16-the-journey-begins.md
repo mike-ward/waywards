@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: The Journey Begins  
+tags: misc  
 ...
 
 So my family is doing this crazy thing of buying a Class A motorhome. We

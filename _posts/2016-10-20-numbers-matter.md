@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: Numbers Matter  
+tags: chassis
 ...
 
 Many motorhome brochures contain a *specs* page. A table with numbers

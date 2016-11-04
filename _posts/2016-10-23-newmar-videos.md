@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: Newmar Videos I Like  
+tags: misc  
 ...
 
 I'll talk a bit more about why we chose Newmar in another post. For now,
