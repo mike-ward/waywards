@@ -10,9 +10,10 @@ and accessories that I have found useful.
 Maintenance
 -----------
 
--   <http://www.thervgeeks.com/> Where RVers Turn to Learn
--   <http://www.technomadia.com/> The adventures and musings of Chris
-    Dunphy & Cherie Ve Ard
+-   [The RV Geeks - Where RVers Turn to
+    Learn](http://www.thervgeeks.com/)
+-   [Technomadia - The adventures and musings of Chris Dunphy & Cherie
+    Ve Ard](http://www.technomadia.com/)
 
 Travel
 ------
@@ -22,10 +23,10 @@ Travel
 Accessories
 -----------
 
--   <https://www.scangauge.com/products/scangauge-d/> Advanced Vehicle
-    Monitor for Diesel Pusher Motorhomes & Big Rigs
--   <https://www.garnetinstruments.com/rv-shop/> RV Holding Tank
-    Monitors
--   <http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w>
-    RV Power & Surge Protection, Hardwired
+-   [ScanGuage - Advanced Vehicle Monitor for Diesel Pusher Motorhomes &
+    Big Rigs](https://www.scangauge.com/products/scangauge-d/)
+-   [SeeLevel - RV Holding Tank
+    Monitors](https://www.garnetinstruments.com/rv-shop/)
+-   [Progressive Industres - RV Power & Surge Protection,
+    Hardwired](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w)
 
