@@ -29,4 +29,6 @@ Accessories
     Monitors](https://www.garnetinstruments.com/rv-shop/)
 -   [Progressive Industres - RV Power & Surge Protection,
     Hardwired](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w)
+-   [weboost 4G cell phone signal
+    booster](https://store.weboost.com/products/drive-4gs)
 
