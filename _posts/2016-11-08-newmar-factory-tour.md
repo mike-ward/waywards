@@ -21,7 +21,7 @@ Couple of things I did learn:
 3.  The factory is air conditioned in the summer time. (apparently, this
     is unusual in the industry).
 
-4.  The place is tidy and clean. Debris is sweep into floor openings
+4.  The place is tidy and clean. Debris is swept into floor openings
     where it falls onto a conveyor belt and is removed from the factory.
     The only debris I saw was in the immediate vicinity of active work.
     Once the work was finished, the debris was quickly cleaned up.
