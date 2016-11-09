@@ -4,7 +4,7 @@ title: "Newmar Factory Tour"
 ...
 
 Recently, my wife and I went to the Newmar factory tour. Not nearly as
-sophisticated as I thought. It's basically a big building with lots of
+sophisticated as I expected. It's basically a big building with lots of
 skilled people assembling stuff with mostly hand tools. Kind of reminds
 me of those old pictures you see of Henry Ford's early assembly lines.
 Nothing wrong with this, just not what I was expecting.
