@@ -12,8 +12,8 @@ Blogs I Like
 
 -   [The RV Geeks](http://www.thervgeeks.com/) - Where RVers Turn to
     Learn
--   [Technomadia - The adventures and musings of Chris Dunphy & Cherie
-    Ve Ard](http://www.technomadia.com/)
+-   [Technomadia](http://www.technomadia.com/) - The adventures and
+    musings of Chris Dunphy & Cherie Ve Ard
 -   [Out of Our Bubble](http://www.outsideourbubble.com/) - Full time
     RVers, good tips and video
 -   [Less Junk &lt; More Journey](http://lessjunkmorejourney.com/) -
