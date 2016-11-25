@@ -27,12 +27,13 @@ Travel
 Accessories
 -----------
 
--   [ScanGuage - Advanced Vehicle Monitor for Diesel Pusher Motorhomes &
-    Big Rigs](https://www.scangauge.com/products/scangauge-d/)
--   [SeeLevel - RV Holding Tank
-    Monitors](https://www.garnetinstruments.com/rv-shop/)
--   [Progressive Industres - RV Power & Surge Protection,
-    Hardwired](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w)
+-   [ScanGuage](https://www.scangauge.com/products/scangauge-d/) -
+    Advanced Vehicle Monitor for Diesel Pusher Motorhomes & Big Rigs-
+-   [SeeLevel](https://www.garnetinstruments.com/rv-shop/) - RV Holding
+    Tank Monitors-
+-   [Progressive
+    Industres](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w) -
+    RV Power & Surge Protection, Hardwired-
 -   [weboost 4G cell phone signal
     booster](https://store.weboost.com/products/drive-4gs)
 -   [RadioLabs](http://www.radiolabs.com/) - Wifi and electronics
