@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: My RV
+name: Our RV
 
 # Short bio or description (displayed in the header)
-description: My Class A Motorhome Experience
+description: Our Class A Motorhome Experience
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/567927?v=3&s=466
@@ -21,7 +21,7 @@ footer-links:
   email: mike@wardfam.org
   facebook:
   flickr:
-  github: mike-ward/my-rv
+  github: mike-ward/our-rv
   instagram:
   linkedin:
   pinterest:
@@ -34,20 +34,20 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: my-rv
+disqus: our-rv
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://mike-ward.net/my-rv
+url: http://mike-ward.net/our-rv
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/my-rv"
+baseurl: "/our-rv"
 
 #
 # !! You don't need to change any of the configuration flags below !!
