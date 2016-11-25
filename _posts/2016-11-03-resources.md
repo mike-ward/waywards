@@ -10,14 +10,14 @@ and accessories that I have found useful.
 Blogs I Like
 ------------
 
--   [The RV Geeks - Where RVers Turn to
-    Learn](http://www.thervgeeks.com/)
+-   [The RV Geeks](http://www.thervgeeks.com/) - Where RVers Turn to
+    Learn
 -   [Technomadia - The adventures and musings of Chris Dunphy & Cherie
     Ve Ard](http://www.technomadia.com/)
 -   [Out of Our Bubble](http://www.outsideourbubble.com/) - Full time
-    RVer's, good tips and video
+    RVers, good tips and video
 -   [Less Junk &lt; More Journey](http://lessjunkmorejourney.com/) -
-    Really like this one.
+    Really like this one
 
 Travel
 ------
