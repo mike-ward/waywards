@@ -8,6 +8,10 @@ I'll talk a bit more about why we chose Newmar in another post. For now,
 here's a collection of videos that communicates the build quality of
 these coaches.
 
+### Best Walkthrough Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rlP1aNMjFXc" frameborder="0" allowfullscreen></iframe>
+
 ### Wall Construction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpxOdMmuerg" frameborder="0" allowfullscreen>
@@ -23,14 +27,11 @@ these coaches.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/amakmcQgL5Y" frameborder="0" allowfullscreen>
 </iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Glg5IX7j-Zk" frameborder="0" allowfullscreen></iframe>
+
 ### Slide System
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y30WhJuWm2o" frameborder="0" allowfullscreen>
-</iframe>
-
-### Best Walkthrough Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CMVmuuZ4vII" frameborder="0" allowfullscreen>
 </iframe>
 
 ### Comfort Drive
