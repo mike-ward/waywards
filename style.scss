@@ -115,13 +115,12 @@ img {
   max-width: none;
 }
 
-.date {
+.date, .excerpt-date {
   font-style: italic;
   color: $gray;
 }
 
 .excerpt-date {
-  @extend .date;
   margin-top: -1em
 }
 
