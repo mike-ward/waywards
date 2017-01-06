@@ -120,6 +120,11 @@ img {
   color: $gray;
 }
 
+.excerpt-date {
+  @extend .date;
+  margin-top: -1em
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
