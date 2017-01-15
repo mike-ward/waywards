@@ -5,7 +5,7 @@ title: Grand Rapids RV Show 2017
 
 We went to the Grand Rapids RV show in (surprise) Grand Rapids,
 Michigan. Our goal was to see a Newmar Ventana 3412, similar to the one
-we ordered. Back in November, we looked at 5 or 6 different Newmar
+we ordered. Back in November we looked at 5 or 6 different Newmar
 coaches, but until today, we never actually saw the 3412 model.
 Preferring not to wait some indeterminate time for one to appear at a
 show or dealer lot, we went ahead and ordered one. It's not as risky as
