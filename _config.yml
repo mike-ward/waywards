@@ -9,7 +9,7 @@ name: Waywards
 description: Our Motorhome Experience
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://i.imgur.com/BCTxigY.jpg
+avatar: http://i.imgur.com/zb6cyk8.jpg
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url: http://waywards.org
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://waywards.org"
+baseurl: "http://waywards.org "
 
 #
 # !! You don't need to change any of the configuration flags below !!
