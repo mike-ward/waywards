@@ -4,21 +4,19 @@ title: About
 permalink: /about/  
 ...
 
-I suppose I should put something quick and witty about myself here but
-then I’m neither so that’s not going to work. I enjoy writing software
-and have always enjoyed fiddling with technology. I’ve been a pilot and
-a sailor, a beer maker and a woodworker. There’s not much that doesn’t
-interest me as along has it doesn’t involve religion or politics.
+Welcome to our RV experiment. My wife Jean and I decided we needed to
+move in a new direction so we have started RV'ing part-time with our
+kids (Rachel and Peter). Buying a big motor home and committing to more
+time away from our suburban lives is scary and challenging, but then
+most things in life worth doing usually are.
 
-![Ward Family with
-Dexter](http://mike-ward.net/cdn/images/about/family.jpg)
-
-As you can see, the dolphin is far more photogenic than I am.
+![Rachel, Peter, Jean and Mike as Founders
+Brewing](http://i.imgur.com/BCTxigY.jpg)
 
 I'm no expert at RV's. In fact, I'm a newbie, fresh with enthusiasm and
-short on knowledge. Follow me as I learn the ins and outs of RV-ing.
-I'll share what I learn and hopefully we'll have fun on the way.
+short on knowledge. Follow us as we learn the ins and outs of RV-ing.
+We'll share what we learn and hopefully have fun on the way.
 
-### Contact me
+### Contact Us
 
 <mike@wardfam.org>
