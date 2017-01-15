@@ -10,14 +10,16 @@ and accessories that I have found useful.
 Blogs I Like
 ------------
 
--   [The RV Geeks](http://www.thervgeeks.com/) - Where RVers Turn to
+-   [The RV Geeks](http://www.thervgeeks.com/) - Where RV'ers Turn to
     Learn
 -   [Technomadia](http://www.technomadia.com/) - The adventures and
     musings of Chris Dunphy & Cherie Ve Ard
--   [Out of Our Bubble](http://www.outsideourbubble.com/) - Full time
+-   [Out of Our Bubble](http://www.outsideourbubble.com/) - Full-time
     RVers, good tips and video
 -   [Less Junk &lt; More Journey](http://lessjunkmorejourney.com/) -
-    Really like this one
+    Full-timers documenting their journey.
+-   [The Restless Youngs](http://www.therestlessyoungs.com/) -
+    Full-timers who make a living doing mobile RV installations.
 
 Travel
 ------
@@ -33,9 +35,57 @@ Accessories
     Tank Monitors-
 -   [Progressive
     Industres](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w) -
-    RV Power & Surge Protection, Hardwired-
+    RV Power & Surge Protection, Hardwired
 -   [weboost 4G cell phone signal
     booster](https://store.weboost.com/products/drive-4gs)
 -   [RadioLabs](http://www.radiolabs.com/) - Wifi and electronics
     (Marine and RV)
+
+Public Campground Resources
+---------------------------
+
+-   [Recreation.gov](http://www.recreation.gov)
+-   [UltimateCampgrounds.com](http://www.ultimatecampgrounds.com)
+-   [CampsitePhotos.com](http://www.campsitephotos.com)
+-   [RVParkReviews.com](http://www.rvparkreviews.com)
+
+Private RV Park Resource
+------------------------
+
+-   [Allstays](http://www.allstays.com)
+-   [RVParkReviews](http://www.rvparkreviews.com)
+-   [Passport America](http://www.passportamerica.com)
+-   [Good Sam RV Travel Guide & Campground
+    Directory](http://www.goodsamcamping.com)
+-   [RVParking](http://www.rvparking.com)
+-   [Big Rig Resorts](http://www.bigrigresorts.com)
+-   [CampsitePhotos](http://www.campsitephotos.com)
+-   [RV Parky](http://www.rvparky.com)
+
+Working on the Road
+-------------------
+
+-   <http://www.workamper.com/>
+-   <http://www.coolworks.com/>
+-   <http://www.volunteer.gov/gov>
+
+Trip Planning
+-------------
+
+Soon :smile:
+
+Industry Organizations / Forums
+-------------------------------
+
+-   [Escapees](https://escapees.com/)
+-   [FMCA](https://www.fmca.com/)
+-   [Good Sams](http://www.goodsamclub.com/)
+-   [IRV2.NET](http://www.irv2.com/)
+-   [RV-Dreams](http://www.rv-dreams.com/)
+-   [RVillage](http://www.rvillage.com/)
+
+Apps
+----
+
+-   [AllStays](http://www.allstays.com/apps/)
 
