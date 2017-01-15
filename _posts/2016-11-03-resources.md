@@ -72,7 +72,7 @@ Working on the Road
 Trip Planning
 -------------
 
-Soon :smile:
+[Harvest Hosts](https://harvesthosts.com/)
 
 Industry Organizations / Forums
 -------------------------------
