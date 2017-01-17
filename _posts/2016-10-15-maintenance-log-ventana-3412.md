@@ -1,7 +1,6 @@
 ---
 layout: post  
 title:  Maintenance Log - Ventana 3412
-published: false
 ...
 
 ## RV Information
