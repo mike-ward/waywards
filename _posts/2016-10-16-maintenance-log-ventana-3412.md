@@ -6,7 +6,7 @@ title:  Maintenance Log - Ventana 3412
 ## RV Information
 
 |            |                                            |
-| ---        + ---                                        |
+| ---------- | ------------------------------------------ |
 | Vehicle    | 2017 Newmar Ventana 3412                   |
 | VIN        | ???                                        |
 | Purchased  | Feburary 2017                              |
@@ -15,6 +15,6 @@ title:  Maintenance Log - Ventana 3412
 
 ## Maintenace Log
 
-| Date       | Description | Links | Cost |
-| ---        + ---         + ---   + ---: |
-| 12/12/2017 |             |       | 0.00 |
+| Date       | Description | Links | Cost     |
+| ---------- | ----------- | ----- | -------: |
+| 12/12/2017 |             |       | 0,000.00 |
