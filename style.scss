@@ -279,6 +279,10 @@ table{ display: block; width: 100%; overflow: auto; word-break: normal; word-bre
 		table th, table td{ padding: 6px 13px; border: 1px solid #ddd; }
 		table tr{ background-color: #fff; border-top: 1px solid #ccc; page-break-inside: avoid; }
 
+img[title=size-1] {
+  width: 600px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
