@@ -11,3 +11,7 @@ bottled goods, etc. I pick them up at flea markets when I find them
 Here's a video about making one such box. Yeah, I'm weird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V_4ffm2dak4" frameborder="0" allowfullscreen></iframe>
+
+A very purple box.
+
+![](http://i.imgur.com/6qoia2G.jpg)
