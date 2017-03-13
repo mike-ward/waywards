@@ -15,3 +15,7 @@ Here's a video about making one such box. Yeah, I'm weird.
 A very purple box.
 
 ![](http://i.imgur.com/6qoia2G.jpg)
+
+Here's another one.
+
+![](http://i.imgur.com/NE3Hzjo.jpg)
