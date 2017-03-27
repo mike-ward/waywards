@@ -9,7 +9,7 @@ excerpt: "I found retrofitting 360 Siphon Vents to be easier, faster and require
 If you're not familiar with [360 Siphon
 Vents](http://www.lci1.com/360-siphon) you should be. They're an
 inexpensive and easy way to reduce sewer odors in your RV. Don't take my
-word for it. Checkout the the RV Geeks video below.
+word for it. Checkout the RV Geeks video below.
 
 The RV Geeks show you how to do an install by removing the old vent. The
 360 Siphon Vents can also be retrofitted on an existing vent.
