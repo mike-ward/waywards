@@ -3,7 +3,7 @@ layout: post
 title:  "Retrofitting 360 Siphon Vents on Existing Vents"  
 ...
 
-<img src=http://i.imgur.com/Bt9w6bQ.jpg style="float: right">
+<img src="http://i.imgur.com/Bt9w6bQ.jpg" style="float: right" />
 
 If you're not familiar with [360 Siphon
 Vents](http://www.lci1.com/360-siphon) you should be. They're an
