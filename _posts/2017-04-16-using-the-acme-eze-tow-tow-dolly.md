@@ -3,14 +3,14 @@ layout: post
 title: "Using the ACME EZE TOW Tow Dolly"  
 ...
 
-(See [Part 1](http://waywards.org/acme-tow-dolly-delivery-and-setup/)
-about unpacking and assembling the dolly)
-
 We're back from a 2,400 mile trip and am happy to report that the ACME
 EZE TOW tow dolly is just that, an "EZE TOW". The dolly loads and
 unloads easily and tracks true. It handles bumps and hard stops without
 fuss. It was entirely uneventful, which is just what I want from a tow
 dolly.
+
+(See [Part 1](http://waywards.org/acme-tow-dolly-delivery-and-setup/)
+about unpacking and assembling the dolly)
 
 Things I really like:
 
