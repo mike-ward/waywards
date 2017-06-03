@@ -16,8 +16,8 @@ from, "On the Go".
 ![softener](http://i.imgur.com/FwE7W0T.jpg)
 
 It consists of a fiberglass tank that holds a *resin*. The hard water
-flows throught the resin and where dissolved minerals are removed. This
-is typical of most brands of water softeners.
+flows through the resin where dissolved minerals are removed. This
+is typical for many brands of water softeners.
 
 These softeners can be hooked up to an outside water source using the
 supplied hose. I decided to install my softener *on-board* as a matter
