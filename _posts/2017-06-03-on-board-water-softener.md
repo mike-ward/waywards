@@ -13,11 +13,11 @@ is more amenable to domestic use. There are several brands of portable
 water softeners suitable for use in an RV. For my rig, I used a product
 from, "On the Go".
 
+![softener](http://i.imgur.com/FwE7W0T.jpg)
+
 It consists of a fiberglass tank that holds a *resin*. The hard water
 flows throught the resin and where dissolved minerals are removed. This
 is typical of most brands of water softeners.
-
-![softener](http://i.imgur.com/FwE7W0T.jpg)
 
 These softeners can be hooked up to an outside water source using the
 supplied hose. I decided to install my softener *on-board* as a matter
@@ -30,8 +30,8 @@ find a place in my wet bay where I could stand up the cylinder upright
 make a small plywood receiver that holds the bottom of the tank in
 place.
 
-I also had to buy an extra length of water hose, a standard male water
-fitting and some hardware to splice into to existing line. This will be
+I also bought an extra length of water hose, a standard male water
+fitting and hardware to splice into to existing line. This will be
 different depending on your configuration. To secure the tank, I used a
 heavy-duty rubber shock cord.
 
