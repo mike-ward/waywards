@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "On Board Water Softener"  
+title: "Onboard Water Softener"  
 ...
 
 I've found water at many places to be hard. Hard water is water with
@@ -20,7 +20,7 @@ flows through the resin where dissolved minerals are removed. This
 is typical for many brands of water softeners.
 
 Water softeners can be hooked up to an outside water source using the
-supplied hose. I decided to install my softener *on-board* as a matter
+supplied hose. I decided to install my softener *onboard* as a matter
 of convenience. It's one less item to have to dig out of storage and
 setup and I don't risk forgetting it or having it stolen.
 
