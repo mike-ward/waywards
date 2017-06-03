@@ -19,7 +19,7 @@ It consists of a fiberglass tank that holds a *resin*. The hard water
 flows through the resin where dissolved minerals are removed. This
 is typical for many brands of water softeners.
 
-These softeners can be hooked up to an outside water source using the
+Water softeners can be hooked up to an outside water source using the
 supplied hose. I decided to install my softener *on-board* as a matter
 of convenience. It's one less item to have to dig out of storage and
 setup and I don't risk forgetting it or having it stolen.
