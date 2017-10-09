@@ -5,7 +5,7 @@ title: "Our Trip out West"
 
 So what do you do when you get a new RV? Why take it on a 6,000 mile
 trip out West of course. I won't bore you with the travel log. Here's a
-photo album with maps and pictures if your interested.
+photo album with maps and pictures if you're interested.
 
 <https://goo.gl/photos/i3u5hgvgqNaHAjs27>
 
