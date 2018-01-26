@@ -20,11 +20,15 @@ Blogs I Like
     Full-timers documenting their journey.
 -   [The Restless Youngs](http://www.therestlessyoungs.com/) -
     Full-timers who make a living doing mobile RV installations.
+-   [The Ultimate Camping Guide: Checklists & Essential Tips for
+    Campers](http://www.wonderfulwellies.co.uk/camping-checklist-guide/)
 
 Travel
 ------
 
--   Need a motorhome first :smile:
+-   [The Old Road Dinner Train, Blissfield,
+    Michigan](http://waywards.org/the-old-road-dinner-train-blissfield-michigan/)
+-   [Our Trip out West](http://waywards.org/our-trip-out-west/)
 
 Accessories
 -----------
@@ -34,8 +38,8 @@ Accessories
 -   [SeeLevel](https://www.garnetinstruments.com/rv-shop/) - RV Holding
     Tank Monitors-
 -   [Progressive
-    Industres](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w) -
-    RV Power & Surge Protection, Hardwired
+    Industres](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w)
+    - RV Power & Surge Protection, Hardwired
 -   [weboost 4G cell phone signal
     booster](https://store.weboost.com/products/drive-4gs)
 -   [RadioLabs](http://www.radiolabs.com/) - Wifi and electronics
