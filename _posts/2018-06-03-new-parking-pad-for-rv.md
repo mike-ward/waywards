@@ -51,3 +51,9 @@ The pad is 32 feet x 12 feet.
 ![pad3](https://i.imgur.com/9wW2Kkv.jpg)
 
 ![pad4](https://i.imgur.com/8gNlZX0.jpg)
+
+Later that day a "Fox Reporter", dropped by to check out the new RV pad.
+
+![fox1](https://i.imgur.com/Z3oTddx.jpg)
+
+![fox2](https://i.imgur.com/SbUVr7U.jpg)
