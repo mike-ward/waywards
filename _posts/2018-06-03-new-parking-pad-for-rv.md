@@ -42,6 +42,8 @@ Driving on the grass to get to the pad does not disturb the ground much.
 I do wait a couple of days if has rained to avoid unnecessary ground
 gouging.
 
+The pad is 32 feet x 12 feet.
+
 ![pad2](https://i.imgur.com/6V6AnMa.jpg)
 
 ![pad1](https://i.imgur.com/Xk8Ajoo.jpg)
