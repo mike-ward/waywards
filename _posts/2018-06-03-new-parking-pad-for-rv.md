@@ -19,19 +19,19 @@ Diesel RV's are heavy. Mine is 16 tons and that's on the light side for
 decided the weight of the vehicle required a small amount of
 engineering.
 
-Costs depended mostly on materials. Concrete is 3 to 4 times more
+Costs depended mostly on materials. Concrete was 3 to 4 times more
 expensive than stone. For cost comparisons, concrete bids came in a
 $3,800. Limestone was $1,250. This included site prep, materials and
 haul away of waste debris.
 
-I could of done the limestone job myself but I would need to rent a
+I could of done the limestone job myself but would require renting a
 Bobcat, trailer and plate compactor. Cost wise, I would not save much.
 Sometimes it's just better to pay someone to do the work.
 
 The site was excavated 10 to 12 inches deep. A (very substantial)
 landscape cover was laid in the bottom. Three courses of limestone were
 laid. Each layer was compressed. The limestone had more finings in it
-than the picture suggests. The larger stones came to the top when
+than the pictures suggests. The larger stones came to the top when
 compressed.
 
 It rained the next day which caused the limestone to compact and harden
