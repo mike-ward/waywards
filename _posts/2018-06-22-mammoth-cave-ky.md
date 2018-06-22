@@ -51,7 +51,18 @@ including information about local medical facilities and emergency phone
 numbers for fire and police. A nice touch.
 
 Wifi was actually quite good as campgrounds go. I could stream YouTube
-videos at low quality most times of the days including evenings. There
+videos at low quality most times of the day including evenings. There
 is also a propane refill service on site.
 
 Corvette Museum here...
+
+Comments about clean RV...
+
+Traffic and getting there...
+
+GPS and route planning...
+
+Wig Wams...
+
+
+
