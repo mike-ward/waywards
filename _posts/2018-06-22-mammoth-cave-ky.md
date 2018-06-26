@@ -31,8 +31,11 @@ evenings. These talks are free and informative.
 Mammoth Cave is mostly a dry cave. They are gray and dull, not colorful
 like [Blanchard Caves](http://www.blanchardsprings.org/) or [Carlsbad
 Caverns](https://www.nps.gov/cave/index.htm). However, there is some
-wonderful history and artifacts as related by the park rangers. If
-you're a history nut like me, you'll find much to enjoy.
+wonderful history and artifacts as related by the park rangers. Some
+really neat graffiti from the 1800's using candle stippling is show
+below. If you're a history nut like me, you'll find much to enjoy.
+
+![cavewriting](https://i.imgur.com/jz66aJu.jpg)
 
 Outside of the caves, there's not much to do in the area. This can be a
 plus or a minus depending on your point of view. As national parks go,
@@ -41,20 +44,32 @@ ease without feeling like the entire world is visiting the same spot at
 the same time. The one BBQ restaurant we went to was down right awful
 (The BBQ Pit) although two others in the area looked promising.
 
+![thebbqpit](https://i.imgur.com/IqwrmC1.jpg)
+
 Camping is plentiful and relatively cheap compared to other National
 Park areas we've visited. We stayed at [Singing Hills RV Park and
 Campground](http://www.singinghillsrvpark.com/). It's quiet, family
 friendly and inexpensive. We stayed 4 nights and with our Passport
 America discount it was about $20 a night with full hookups (including
-50 amp). The propriator is friendly and has a nice welcome packet
+50 amp). The proprietor is friendly and has a nice welcome packet
 including information about local medical facilities and emergency phone
 numbers for fire and police. A nice touch.
 
 Wifi was actually quite good as campgrounds go. I could stream YouTube
-videos at low quality most times of the day including evenings. There
-is also a propane refill service on site.
+videos at low quality most times of the day including evenings. There is
+also a propane refill service on site.
 
 Corvette Museum here...
+
+![corvette](https://i.imgur.com/WEIJPGw.jpg)
+
+Whiskey
+
+![whiskey](https://i.imgur.com/8G9ByXu.jpg)
+
+Ice Cream
+
+![icecream](https://i.imgur.com/COuLKhc.jpg)
 
 Comments about clean RV...
 
@@ -64,5 +79,4 @@ GPS and route planning...
 
 Wig Wams...
 
-
-
+![wigwams](https://i.imgur.com/ROVvBja.jpg)
