@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:  'Mammoth Cave, KY'
-published: false
+published: true
 ...
 
 Recently, we visited [Mammoth
@@ -126,10 +126,10 @@ little time. I'll save that for a future article.
 All GPS's suck for RV travel, even the ones designed for RV travel. I
 know, I've tried most of them. The gold standard (IMO) is Google Maps
 and well, it sucks too. Mostly these apps suck because they try to
-optimize the route too much. In RV, a 10-minute delay is no big deal and
+optimize the route too much. In an RV, a 10-minute delay is no big deal and
 I really don't want to leave my predetermined path. Why? Because my RV
-is long and tall. I routinely plan routes to go around cities and of
-course to avoid low clearance obstacles.
+is long and tall. I routinely plan routes to go around cities and 
+avoid low clearance obstacles.
 
 I've found the app on my phone does not allow the addition of
 waypoints easily. And if you save a route to your phone it will only
