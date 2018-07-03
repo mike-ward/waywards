@@ -40,11 +40,9 @@ Accessories
     Advanced Vehicle Monitor for Diesel Pusher Motorhomes & Big Rigs-
 -   [SeeLevel](https://www.garnetinstruments.com/rv-shop/) - RV Holding
     Tank Monitors-
--   [Progressive
-    Industres](http://www.progressiveindustries.net/rv-power--surge-hardwired-c1p4w)
-    -   RV Power & Surge Protection, Hardwired
--   [weboost 4G cell phone signal
-    booster](https://store.weboost.com/products/drive-4gs)
+-   [Progressive Industres](http://www.progressiveindustries.net/) - RV
+    Power & Surge Protection, Hardwired
+-   [weboost 4G cell phone signal booster](https://store.weboost.com/)
 -   [RadioLabs](http://www.radiolabs.com/) - Wifi and electronics
     (Marine and RV)
 
@@ -100,6 +98,8 @@ Articles of Interest
 Apps
 ----
 
+-   [Trucker Path](https://truckerpath.com/) - Find Truck friendly fuel
+    stops (so you're truck-sized RV will have clearance at the pumps)
 -   [AllStays](http://www.allstays.com/apps/)
 -   [GasBuddy - Find Cheap
     Gas](https://play.google.com/store/apps/details?id=gbis.gbandroid)
