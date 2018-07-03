@@ -99,7 +99,7 @@ Apps
 ----
 
 -   [Trucker Path](https://truckerpath.com/) - Find Truck friendly fuel
-    stops (so you're truck-sized RV will have clearance at the pumps)
+    stops (so your truck-sized RV will have clearance at the pumps)
 -   [AllStays](http://www.allstays.com/apps/)
 -   [GasBuddy - Find Cheap
     Gas](https://play.google.com/store/apps/details?id=gbis.gbandroid)
