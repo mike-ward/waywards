@@ -47,6 +47,10 @@ twenty minutes and two attempts to get the right shape and thickness.
 
 ![](http://i.imgur.com/2j50kmm.jpg)
 
+I later painted it orange. Looks a little better and is easier to see when mounted.
+
+![painted orange](https://i.imgur.com/j62Q5MY.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cYYIaTAeFLY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 
