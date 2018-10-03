@@ -1,7 +1,6 @@
 ---
 layout: post  
 title: "No More Dead Toad Battery - PriorityStart!"  
-published: false
 ...
 
 Recently, I switched from dolly towing to flat towing out Honda Fit.
@@ -57,13 +56,15 @@ required.
 
 Our Honda Fit has a buss bar incorporated into the positive battery lead
 and prevented me from attaching the positive battery lead directly to
-the device as is normal. As you can tell from the picture below, I added
-a 12-inch cable. This allowed me to attach to the battery lead without
-modifying the buss bar and position the PriorityStart\! in a more
-accessible location. I used electrical tape to insulted the exposed ring
-terminal.
+the device as is normal. As you can tell from the pictures below, I
+added a 12-inch cable. This allowed me to attach to the battery lead
+without modifying the buss bar and position the PriorityStart\! in a
+more accessible location. I used electrical tape to insulted the exposed
+ring terminal.
 
-<insert picture here>
+![PriorityStart1](https://i.imgur.com/lrfw4iY.jpg)
+
+![PriorityStart2](https://i.imgur.com/kWq0N5g.jpg)
 
 Despite the small size of the engine compartment, I was able to fit a
 supplemental braking system ([Air Force
