@@ -1,7 +1,6 @@
 ---
 layout: post  
-title: RV roofs get dirty. Here's how I clean mine  
-tags: maintenance
+title: "RV roofs get dirty. Here's how I clean mine"  
 ...
 
 The top of your RV needs to be cleaned periodically. A clean roof keeps
