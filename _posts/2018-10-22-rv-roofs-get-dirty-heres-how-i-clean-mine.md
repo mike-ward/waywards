@@ -19,7 +19,7 @@ on RV. It pretty much works as advertised. I suspect the other waterless
 wash/wax systems from Meguiars, Chemical Guys, Mothers, etc. work just
 as well.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=waywards-20&language=en_US&marketplace=amazon&region=US&placement=B006AFAWYI&asins=B006AFAWYI&linkId=236744d2a4eb45e4a99e0c0a9f10c49c&show_border=true&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/Aero-Cosmetics-Waterless-Aircraft-Restrictions/dp/B006AFAWYI/ref=as_li_ss_il?ie=UTF8&qid=1540302597&sr=8-5&keywords=wash+wax+all+-+aero+cosmetics+waterless+wash&dpID=51YMQ4IYmxL&preST=_SX300_QL70_&dpSrc=srch&linkCode=li3&tag=waywards-20&linkId=91f88767155ac26ca5be1a2a6cc91eda&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006AFAWYI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=waywards-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=waywards-20&language=en_US&l=li3&o=1&a=B006AFAWYI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The two-headed applicator is the key to going fast. Squirt the "Wet" side
 with Wash Wax All, apply, flip to the "Dry" side and rub off. It goes quick
