@@ -15,7 +15,7 @@ use a product appropriate for that purpose.
 
 I use a waterless wash and wax system called, "Wash Wax All". It comes
 from the Aerospace industry and I've used it now for a couple of years
-on RV. It pretty much works as advertised. I suspect the other waterless
+on my RV. It pretty much works as advertised. I suspect the other waterless
 wash/wax systems from Meguiars, Chemical Guys, Mothers, etc. work just
 as well.
 
