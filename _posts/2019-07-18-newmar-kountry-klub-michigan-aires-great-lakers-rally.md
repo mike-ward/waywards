@@ -3,9 +3,9 @@ layout: post
 title: "Newmar Kountry Klub - Michigan Aires & Great Lakers Rally"
 ...
 
-![center](https://newmarkountryklub.com/wp-content/uploads/2018/11/newmar-logo-home.png)
-
 Our first [Newmar Kountry Klub](https://newmarkountryklub.com) rally! What a hoot. We met at the Pine Ridge RV park located near [Frankenmuth, MI](https://www.frankenmuth.org). Not familiar with Frankenmuth? It's a tourist town with a Bavarian German theme.
+
+![logo](https://newmarkountryklub.com/wp-content/uploads/2018/11/newmar-logo-home.png)
 
 We arrived Friday afternoon and the group met for dinner at Zhenders, a restaurant famous for its family-style, all you can eat, chicken dinners. There were maybe 20 of us in total. Good times, good beer, good food. How can you go wrong?
 
