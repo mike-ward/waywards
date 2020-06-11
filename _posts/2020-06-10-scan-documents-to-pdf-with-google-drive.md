@@ -19,7 +19,7 @@ You'll need an app called, "Google Drive". Google Drive provides free, private
 online-storage for your documents and spreadsheets.
 
 Once Google Drive is installed (many smart phone vendors preinstall it),
-open the Google Drive app and press the large plus button icon in the
+open the Google Drive app and press the large plus-button-icon in the
 lower right corner. Google Drive will open the camera. Simply take a
 picture of your receipt. Google Drive is smart enough to crop and
 straighten the image. If you have multiple pages or receipts, press the
