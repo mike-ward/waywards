@@ -15,9 +15,8 @@ multi-page receipts in one file and they are easily be printed.
 But wait you say, I don't have a scanner. Well if you have a smart phone
 I've got good news, you have one.
 
-You'll need an app called, [Google
-Drive](https://www.google.com/drive/download/). Google Drive is free,
-private online-storage for your documents and spreadsheets.
+You'll need an app called, "Google Drive". Google Drive provides free, private
+online-storage for your documents and spreadsheets.
 
 Once Google Drive is installed (many smart phone vendors preinstall it),
 open the Google Drive app and press the large plus button icon in the
@@ -29,5 +28,11 @@ straighten the image. If you have multiple pages or receipts, press the
 Press, "Save" to finish. The Google Drive app converts the images to a
 PDF document and uploads it to Google Drive. You're done.
 
-More information can be found at: [Google Drive Help
+Links:
+
+- More Information: <https://www.wikiwand.com/en/Google_Drive> 
+- Download: <https://www.google.com/drive/download/>
+- Help:
+[Google Drive Help
 Page](https://support.google.com/drive/answer/3145835?co=GENIE.Platform%3DAndroid&hl=en&oco=0)
+
